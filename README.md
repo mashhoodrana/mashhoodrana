@@ -20,16 +20,14 @@ AI project to detect **deforestation, wildfires, and trash** in tourist areas us
 <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="120" alt="AI Monitoring GIF"></li>
 
 <li>💬 <b>T3 Chat Clonathon</b>  
-Real-time **chat application clone** with **WebSocket-based backend** and interactive UI.  
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="120" alt="Chat App GIF"></li>
+Real-time **chat application clone** with **WebSocket-based backend** and interactive UI.</li>
 
 <li>🤖 <b>Diabetes Prediction Model (NLP + MLP)</b>  
 Custom **MLP neural network** using **NumPy & scikit-learn** for accurate predictions.  
 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" alt="ML Project GIF"></li>
 
 <li>☁️ <b>Weather Chatbot</b>  
-Real-time weather info using **Google Gemini API**, **Streamlit**, and **web scraping** for interactive chat experience.  
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="120" alt="Weather Bot GIF"></li>
+Real-time weather info using **Google Gemini API**, **Streamlit**, and **web scraping** for interactive chat experience. </li>
 </ul>
 
 ---
