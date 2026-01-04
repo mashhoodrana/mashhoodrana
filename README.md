@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mashhood Rana</h1>
-<h3 align="center">A Computer Science Student at Institute of Space Technology | AI & Full-Stack Developer</h3>
+<h3 align="center">Computer Science Student | AI & ML Enigeer</h3>
 
 <p align="center">
 <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -13,39 +13,51 @@
 
 ---
 
-<h3 align="left">🚀 Current Projects</h3>
+<h3 align="left">🚀 Hackathons & Projects</h3>
 <ul>
-<li>🥭 <b>Mango Store Website</b> - Full-stack e-commerce site using <i>React.js, Tailwind CSS, Node.js & Firebase</i>. 
-<img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="120" alt="Mango Website GIF"></li>
-
-<li>🌲🔥 <b>Environmental AI Monitoring</b> - Detects <i>deforestation, wildfires, and trash</i> in tourist areas using satellite images & AI. 
+<li>🌿 <b>Google APAC Solution Challenge – Environmental AI Monitoring</b>  
+AI project to detect **deforestation, wildfires, and trash** in tourist areas using **satellite imagery & custom AI models**.  
 <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="120" alt="AI Monitoring GIF"></li>
 
-<li>☁️🌦️ <b>Weather Chatbot</b> - Real-time weather info using <i>Google Gemini API & Streamlit</i>. 
+<li>💬 <b>T3 Chat Clonathon</b>  
+Real-time **chat application clone** with **WebSocket-based backend** and interactive UI.  
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="120" alt="Chat App GIF"></li>
+
+<li>🤖 <b>Diabetes Prediction Model (NLP + MLP)</b>  
+Custom **MLP neural network** using **NumPy & scikit-learn** for accurate predictions.  
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" alt="ML Project GIF"></li>
+
+<li>☁️ <b>Weather Chatbot</b>  
+Real-time weather info using **Google Gemini API**, **Streamlit**, and **web scraping** for interactive chat experience.  
 <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="120" alt="Weather Bot GIF"></li>
 </ul>
 
 ---
 
 <h3 align="left">💻 Skills & Tools</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<p align="left">
+<!-- Programming & ML -->
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+
+<!-- Web -->
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
+
+<!-- AI/ML & Data -->
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/> </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/streamlit-1.svg" alt="streamlit" width="40" height="40"/> </a>
+
+<!-- Cloud & APIs -->
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="gcp" width="40" height="40"/> </a>
+
 </p>
-
----
-
-<h3 align="left">🏆 Achievements</h3>
-<ul>
-<li>Chairperson at <b>ACM-IST</b>, leading coding and tech events.</li>
-<li>Campus Ambassador at <b>Confiniti</b> & <b>BizTech24</b>.</li>
-<li>Organized <b>ACM-IST’s first 3-day e-sports event</b> in collaboration with GDGOC-IST.</li>
-<li>Built AI & web projects deployed in real-world scenarios.</li>
-</ul>
 
 ---
 
@@ -57,7 +69,7 @@
 ---
 
 <h3 align="left">⚡ Fun Fact</h3>
-<p>I enjoy <b>combining AI with real-world solutions</b> and building projects <b>end-to-end</b> from concept to deployment. I do my work with fun!</p>
+<p>I enjoy <b>combining AI with real-world solutions</b> and building projects <b>end-to-end</b>. Hackathons fuel my creativity!</p>
 
 ---
 
