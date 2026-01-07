@@ -61,7 +61,6 @@ Built a scalable AI chat system inspired by modern LLM-based interfaces using:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
 </p>
 
 ### ☁️ Databases & Cloud
@@ -78,19 +77,6 @@ Built a scalable AI chat system inspired by modern LLM-based interfaces using:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mashhoodrana&show_icons=true&theme=tokyonight&cache_seconds=1800"
-    height="165"/>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashhoodRana&layout=compact&theme=tokyonight&cache_seconds=1800"
-    height="165"/>
 </p>
 
 ---
