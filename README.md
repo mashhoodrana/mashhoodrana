@@ -15,18 +15,21 @@ I build <b>AI-driven solutions</b>, compete in <b>global hackathons</b>, and wor
 
 🧠 **Google Solution Challenge**  
 AI-based environmental monitoring system using satellite imagery to detect:
+
 - Deforestation
 - Wildfires
 - Environmental degradation  
-(Target regions: Margalla Hills, Swat, Hunza, Skardu)
+  (Target regions: Margalla Hills, Swat, Hunza, Skardu)
 
 ⚡ **T3 Chat Clonathon**  
 Built a scalable AI chat system inspired by modern LLM-based interfaces using:
+
 - API-driven architecture
 - Real-time UI concepts
 - Clean system design
 
 🏆 Actively participate in **AI, web, and system-design hackathons** focused on:
+
 - Sustainability
 - Smart automation
 - AI for social good
@@ -36,6 +39,7 @@ Built a scalable AI chat system inspired by modern LLM-based interfaces using:
 ## 🛠️ Skills & Tools
 
 ### 👨‍💻 Programming
+
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
@@ -44,6 +48,7 @@ Built a scalable AI chat system inspired by modern LLM-based interfaces using:
 </p>
 
 ### 🤖 AI / ML
+
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
@@ -51,6 +56,7 @@ Built a scalable AI chat system inspired by modern LLM-based interfaces using:
 </p>
 
 ### 🌐 Web & APIs
+
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
@@ -59,12 +65,14 @@ Built a scalable AI chat system inspired by modern LLM-based interfaces using:
 </p>
 
 ### ☁️ Databases & Cloud
+
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
 </p>
 
 ### ⚙️ Tools & Platforms
+
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
@@ -77,8 +85,12 @@ Built a scalable AI chat system inspired by modern LLM-based interfaces using:
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MashhoodRana&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashhoodRana&layout=compact&theme=tokyonight" height="160"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MashhoodRana&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashhoodRana&layout=compact&theme=tokyonight&cache_seconds=1800"
+    height="165"/>
 </p>
 
 ---
