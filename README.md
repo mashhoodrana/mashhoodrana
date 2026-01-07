@@ -1,103 +1,106 @@
-<h1 align="center">Hi 👋, I'm Muhammad Mashhood Rana</h1>
-<h3 align="center">Computer Science Student | AI & ML Engineer</h3>
+<h1 align="center">Hi, I'm Muhammad Mashhood Rana 👋</h1>
+
+<h3 align="center">
+AI • Machine Learning • Hackathons • Full-Stack Engineering
+</h3>
 
 <p align="center">
-  <img alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mashhoodrana&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+I build <b>AI-driven solutions</b>, compete in <b>global hackathons</b>, and work on 
+<b>real-world problem-solving systems</b> using modern tech stacks.
 </p>
 
 ---
 
-<h3 align="left">🚀 Hackathons & Projects</h3>
+## 🚀 Hackathons & Innovation
 
-<ul>
-  <li>
-    <b>Google APAC Solution Challenge – Environmental AI Monitoring</b><br>
-    AI system for detecting deforestation, wildfires, and environmental degradation in tourist regions using satellite imagery and machine learning models.
-  </li>
-  <br>
-  <li>
-    <b>T3 Chat Clonathon</b><br>
-    Real-time chat application developed during a clonathon, featuring live messaging, scalable backend logic, and responsive UI.
-  </li>
-  <br>
-  <li>
-    <b>Diabetes Prediction Model</b><br>
-    Machine learning model using a custom multilayer perceptron built with NumPy and scikit-learn to predict diabetes outcomes.
-  </li>
-  <br>
-  <li>
-    <b>Weather Chatbot</b><br>
-    Conversational chatbot providing real-time weather information using the Google Gemini API, Streamlit, and web scraping.
-  </li>
-</ul>
+🧠 **Google Solution Challenge**  
+AI-based environmental monitoring system using satellite imagery to detect:
+- Deforestation
+- Wildfires
+- Environmental degradation  
+(Target regions: Margalla Hills, Swat, Hunza, Skardu)
+
+⚡ **T3 Chat Clonathon**  
+Built a scalable AI chat system inspired by modern LLM-based interfaces using:
+- API-driven architecture
+- Real-time UI concepts
+- Clean system design
+
+🏆 Actively participate in **AI, web, and system-design hackathons** focused on:
+- Sustainability
+- Smart automation
+- AI for social good
 
 ---
 
-<h3 align="left">💻 Skills & Tools</h3>
+## 🛠️ Skills & Tools
 
-<p align="left">
-  <!-- Programming -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
-
-  <!-- Web -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
-
-  <!-- AI / ML -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/streamlit-1.svg" width="40" height="40" />
-
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40" />
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mashhoodrana&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mashhoodrana&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashhoodrana" />
-</p>
-
----
-
-<h3 align="left">⚡ Fun Fact</h3>
+### 👨‍💻 Programming
 <p>
-I enjoy building AI-driven solutions and participating in hackathons where ideas turn into working systems under pressure.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+</p>
+
+### 🤖 AI / ML
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+</p>
+
+### 🌐 Web & APIs
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+</p>
+
+### ☁️ Databases & Cloud
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 </p>
 
 ---
 
-<h3 align="left">📫 Connect with Me</h3>
+## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://linkedin.com/in/mashhoodrana">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:mashhoodrana2010@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/MashhoodRana">
-    <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github" />
-  </a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MashhoodRana&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashhoodRana&layout=compact&theme=tokyonight" height="160"/>
 </p>
+
+---
+
+## 🌐 Let’s Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:themashhoodrana@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+<a href="https://github.com/MashhoodRana">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Z0aGx1bWw5Nm5zZG4zOGx5NHVjM2Z2YjRzNm5hZ3Z5YzFjNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="300"/>
+</p>
+
+<p align="center"><i>Building AI systems that actually matter.</i></p>
