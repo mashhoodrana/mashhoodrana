@@ -86,7 +86,7 @@ Built a scalable AI chat system inspired by modern LLM-based interfaces using:
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=MashhoodRana&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=mashhoodrana&show_icons=true&theme=tokyonight&cache_seconds=1800"
     height="165"/>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashhoodRana&layout=compact&theme=tokyonight&cache_seconds=1800"
@@ -98,13 +98,13 @@ Built a scalable AI chat system inspired by modern LLM-based interfaces using:
 ## 🌐 Let’s Connect
 
 <p align="center">
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/mashhood-rana/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:themashhoodrana@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
-<a href="https://github.com/MashhoodRana">
+<a href="https://github.com/mashhoodrana">
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 </p>
