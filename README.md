@@ -18,8 +18,7 @@ AI-based environmental monitoring system using satellite imagery to detect:
 
 - Deforestation
 - Wildfires
-- Environmental degradation  
-  (Target regions: Margalla Hills, Swat, Hunza, Skardu)
+- Environmental degradation
 
 ⚡ **T3 Chat Clonathon**  
 Built a scalable AI chat system inspired by modern LLM-based interfaces using:
