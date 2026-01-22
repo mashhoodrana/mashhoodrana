@@ -40,4 +40,4 @@ Built a scalable AI chat system inspired by modern LLM-based interfaces using:
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Z0aGx1bWw5Nm5zZG4zOGx5NHVjM2Z2YjRzNm5hZ3Z5YzFjNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="300"/>
 </p>
 
-<p align="center"><i>Building AI systems that actually matter.</i></p>
+<p align="center"><i>Building AI systems that actually matters.</i></p>
