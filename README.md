@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building AI-powered web systems and agentic workflows focused on real-world problem solving.<br>Designing robust architectures and deploying AI systems beyond the prototype stage.<br>Turning complex ideas into structured, working AI or web solutions.<br>I value consistency and problem-solving over flashy demos.
+Building AI-powered web systems focused on real-world problem solving.<br>Designing robust architectures and deploying AI systems beyond the prototype stage.<br>Turning complex ideas into structured, working AI or web solutions.<br>I value consistency and problem-solving over flashy demos.
 
 
 ## 🌐 Socials:
